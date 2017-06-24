@@ -3,25 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1498318808063">
+      <file name="/Dummy.txt" timestamp="1498323658513">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/CMakeLists.txt" timestamp="1498318659355">
+      <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/CMakeLists.txt" timestamp="1498323818285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/main.cpp" timestamp="1498322442619">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/main.cpp" timestamp="1498323528754">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text />
       </register>
     </registers>
     <search>
