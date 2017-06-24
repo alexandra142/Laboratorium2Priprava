@@ -3,32 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/GDB" timestamp="1498324302145">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1498323658513">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/CMakeLists.txt" timestamp="1498323818285">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/main.cpp" timestamp="1498323528754">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+      <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/main.cpp" timestamp="1498324347705">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="46" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>6f6d612d6c96847e42e6257b3f9ea98466cfc8761ed5e0308311deb15</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>6f6d612d6c96847e42e6257b3f9ea98466cfc8761ed5e0308311deb15</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
