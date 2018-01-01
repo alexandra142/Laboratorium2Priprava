@@ -3,17 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/GDB" timestamp="1514845285102">
+      <file name="/GDB" timestamp="1514846813535">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1498323658513">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/DFS_bl/main.cpp" timestamp="1514845062212">
+      <file name="$USER_HOME$/CLionProjects/DFS_bl/main.cpp" timestamp="1514845491793">
         <mark key="'" line="51" column="38" />
         <mark key="[" line="18" column="18" />
         <mark key="]" line="18" column="18" />
         <mark key="." line="18" column="18" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/DFS_graf/main.cpp" timestamp="1514846633082">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="17" />
       </file>
       <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/CMakeLists.txt" timestamp="1498323818285">
         <mark key="[" line="0" column="0" />
@@ -30,23 +35,26 @@
       <jump line="44" column="38" filename="$USER_HOME$/CLionProjects/DFS_bl/main.cpp" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">XTsKICAgIGludCBhWzNdWzRdIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>column</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">XTsKICAgIGludCBhWzNdWzRdIA==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">dm9pZCBXcml0ZShpbnQgKCZhcnJheSlbc2l6ZV94XVtzaXplX3ldLCApCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">dm9pZCBXcml0ZShpbnQgKCphcnJheSlbNF1bNF0pCnsKICAgIHN0ZDo6Y291dCA8PCAiRWxlbWVudHMgb2YgdGhlIG1hdHJpeDogIjw8IHN0ZDo6ZW5kbDsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNDsgKytpKSB7CiAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCA0OyBqKysgKSB7CiAgICAgICAgICAgIGNvdXQgPDwgYXJyYXlbaV1bal0gPDwgIiAiOwogICAgICAgIH0KICAgICAgICBjb3V0IDw8IGVuZGw7CiAgICB9Owp9</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CnZvaWQgREZTX2JsKGludCBhcnJheVs0XVs0XSkKewoKfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>column</text>
       </register>
     </registers>
     <search>
@@ -80,6 +88,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
