@@ -3,14 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/GDB" timestamp="1514839811683">
+      <file name="/GDB" timestamp="1514845285102">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1498323658513">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/DFS_bl/main.cpp" timestamp="1514840496047">
-        <mark key="'" line="48" column="38" />
+      <file name="$USER_HOME$/CLionProjects/DFS_bl/main.cpp" timestamp="1514845062212">
+        <mark key="'" line="51" column="38" />
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
       </file>
       <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/CMakeLists.txt" timestamp="1498323818285">
         <mark key="[" line="0" column="0" />
@@ -31,7 +34,7 @@
         <text encoding="base64">XTsKICAgIGludCBhWzNdWzRdIA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAvKiAgaW5pdGlhbGl6ZXJzIGZvciByb3cgaW5kZXhlZCBieSAwICov</text>
+        <text>y</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">dm9pZCBXcml0ZShpbnQgKCZhcnJheSlbc2l6ZV94XVtzaXplX3ldLCApCg==</text>
@@ -43,7 +46,7 @@
         <text encoding="base64">CnZvaWQgREZTX2JsKGludCBhcnJheVs0XVs0XSkKewoKfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAvKiAgaW5pdGlhbGl6ZXJzIGZvciByb3cgaW5kZXhlZCBieSAwICov</text>
+        <text>y</text>
       </register>
     </registers>
     <search>
