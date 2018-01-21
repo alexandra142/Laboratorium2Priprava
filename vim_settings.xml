@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/GDB" timestamp="1516496711188">
+      <file name="/GDB" timestamp="1516497975256">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1498323658513">
@@ -23,10 +23,8 @@
         <mark key="]" line="24" column="17" />
         <mark key="." line="24" column="17" />
       </file>
-      <file name="D:/C++Projects/DFS_kostra/main.cpp" timestamp="1516497119831">
-        <mark key="[" line="24" column="33" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="33" />
+      <file name="D:/C++Projects/DFS_kostra/main.cpp" timestamp="1516497920182">
+        <mark key="'" line="49" column="4" />
       </file>
       <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/CMakeLists.txt" timestamp="1498323818285">
         <mark key="[" line="0" column="0" />
@@ -41,39 +39,51 @@
     <jumps>
       <jump line="9" column="19" filename="$USER_HOME$/CLionProjects/LaboratoriumPriprava/main.cpp" />
       <jump line="44" column="38" filename="$USER_HOME$/CLionProjects/DFS_bl/main.cpp" />
+      <jump line="49" column="4" filename="D:/C++Projects/DFS_kostra/main.cpp" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">Ym9vbCBJc0NvbnRpbnVvdXMoaW50ICgmYXJyYXkpW3NpemVfeF1bc2l6ZV95XSkKewogICAgZm9yIChpbnQgayAgPSAwOyBrIDwgc2l6ZV94OyArK2spIHsKICAgICAgICBmb3IgKGludCBsID0gMDsgbCA8IHNpemVfeTsgbCsrICkgewogICAgICAgICAgICBpZihhcnJheVtrXVtsXSAhPSAwICYmIGFycmF5W2tdW2xdICE9IDMpCiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfTsKCiAgICByZXR1cm4gdHJ1ZTsKfQ==</text>
+        <text encoding="base64">IHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDF9LAogICAgICAgICAgICB7MCwgMCwgMCwgMSwgMX0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>|| i == colum</text>
+        <text encoding="base64">JiYgbGV2ZWwgIT0gaQ==</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">Ym9vbCBJc0NvbnRpbnVvdXMoaW50ICgmYXJyYXkpW3NpemVfeF1bc2l6ZV95XSkKewogICAgZm9yIChpbnQgayAgPSAwOyBrIDwgc2l6ZV94OyArK2spIHsKICAgICAgICBmb3IgKGludCBsID0gMDsgbCA8IHNpemVfeTsgbCsrICkgewogICAgICAgICAgICBpZihhcnJheVtrXVtsXSAhPSAwICYmIGFycmF5W2tdW2xdICE9IDMpCiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfTsKCiAgICByZXR1cm4gdHJ1ZTsKfQ==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">XTsKICAgIGludCBhWzNdWzRdIA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dm9pZCBXcml0ZShpbnQgKCZhcnJheSlbc2l6ZV94XVtzaXplX3ldLCApCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">dm9pZCBXcml0ZShpbnQgKCphcnJheSlbNF1bNF0pCnsKICAgIHN0ZDo6Y291dCA8PCAiRWxlbWVudHMgb2YgdGhlIG1hdHJpeDogIjw8IHN0ZDo6ZW5kbDsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNDsgKytpKSB7CiAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCA0OyBqKysgKSB7CiAgICAgICAgICAgIGNvdXQgPDwgYXJyYXlbaV1bal0gPDwgIiAiOwogICAgICAgIH0KICAgICAgICBjb3V0IDw8IGVuZGw7CiAgICB9Owp9</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CnZvaWQgREZTX2JsKGludCBhcnJheVs0XVs0XSkKewoKfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>|| i == colum</text>
+        <text encoding="base64">JiYgbGV2ZWwgIT0gaQ==</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxpbnRcPg==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxpbnRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxpbnRcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxpbnRcPg==</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
