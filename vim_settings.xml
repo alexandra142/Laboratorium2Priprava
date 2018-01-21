@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/GDB" timestamp="1516497975256">
+      <file name="/GDB" timestamp="1516498125902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1498323658513">
@@ -18,12 +18,17 @@
       <file name="/fragment.mm" timestamp="1516495666762">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/C++Projects/DFS_graf/main.cpp" timestamp="1516498109464">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/DFS_graf/main.cpp" timestamp="1514846633082">
         <mark key="[" line="24" column="17" />
         <mark key="]" line="24" column="17" />
         <mark key="." line="24" column="17" />
       </file>
-      <file name="D:/C++Projects/DFS_kostra/main.cpp" timestamp="1516497920182">
+      <file name="D:/C++Projects/DFS_kostra/main.cpp" timestamp="1516497988176">
         <mark key="'" line="49" column="4" />
       </file>
       <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/CMakeLists.txt" timestamp="1498323818285">
@@ -46,7 +51,7 @@
         <text encoding="base64">IHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDF9LAogICAgICAgICAgICB7MCwgMCwgMCwgMSwgMX0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYgbGV2ZWwgIT0gaQ==</text>
+        <text encoding="base64">IGZvciAoaW50IGwgPSAwOyBsIDwgc2l6ZV95OyBsKysgKSB7</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Ym9vbCBJc0NvbnRpbnVvdXMoaW50ICgmYXJyYXkpW3NpemVfeF1bc2l6ZV95XSkKewogICAgZm9yIChpbnQgayAgPSAwOyBrIDwgc2l6ZV94OyArK2spIHsKICAgICAgICBmb3IgKGludCBsID0gMDsgbCA8IHNpemVfeTsgbCsrICkgewogICAgICAgICAgICBpZihhcnJheVtrXVtsXSAhPSAwICYmIGFycmF5W2tdW2xdICE9IDMpCiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfTsKCiAgICByZXR1cm4gdHJ1ZTsKfQ==</text>
@@ -67,7 +72,7 @@
         <text encoding="base64">CnZvaWQgREZTX2JsKGludCBhcnJheVs0XVs0XSkKewoKfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYgbGV2ZWwgIT0gaQ==</text>
+        <text encoding="base64">IGZvciAoaW50IGwgPSAwOyBsIDwgc2l6ZV95OyBsKysgKSB7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRcPg==</text>
