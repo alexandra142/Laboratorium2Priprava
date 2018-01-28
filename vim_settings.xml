@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/GDB" timestamp="1516591791972">
+      <file name="/GDB" timestamp="1517172157911">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/C++Projects/BFS/main.cpp" timestamp="1516591773368">
@@ -21,7 +21,7 @@
         <mark key="]" line="18" column="18" />
         <mark key="." line="18" column="18" />
       </file>
-      <file name="/fragment.mm" timestamp="1516590428635">
+      <file name="/fragment.mm" timestamp="1517172086323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/C++Projects/DFS_graf/main.cpp" timestamp="1516498109464">
@@ -33,6 +33,12 @@
         <mark key="[" line="24" column="17" />
         <mark key="]" line="24" column="17" />
         <mark key="." line="24" column="17" />
+      </file>
+      <file name="D:/C++Projects/TopSort/main.cpp" timestamp="1517172492974">
+        <mark key="'" line="0" column="5" />
+        <mark key="[" line="46" column="18" />
+        <mark key="]" line="46" column="18" />
+        <mark key="." line="46" column="18" />
       </file>
       <file name="D:/C++Projects/DFS_kostra/main.cpp" timestamp="1516497988176">
         <mark key="'" line="49" column="4" />
@@ -55,42 +61,44 @@
       <jump line="23" column="21" filename="D:/C++Projects/BFS/main.cpp" />
       <jump line="37" column="14" filename="D:/C++Projects/BFS/main.cpp" />
       <jump line="32" column="26" filename="D:/C++Projects/BFS/main.cpp" />
+      <jump line="18" column="17" filename="D:/C++Projects/TopSort/main.cpp" />
+      <jump line="6" column="5" filename="D:/C++Projects/TopSort/main.cpp" />
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">bGV2ZWxdW2NvbHVtbl0gPSAzOwoKCn0KCnRlbXBsYXRlPHNpemVfdCBzaXplX3gsIHNpemVfdCBzaXplX3k+CmJvb2wgSXNDb250aW51b3VzKGk=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgojaW5jbHVkZTxxdWV1ZT4KCnVzaW5nIG5hbWVzcGFjZSBzdGQ7Cgp0ZW1wbGF0ZTxzaXplX3Qgc2l6ZV94LCBzaXplX3Qgc2l6ZV95Pgp2b2lkICg=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>startNod</text>
+        <text>Elements of the matri</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBpZiAoYXJyYXlbbGV2ZWxdW2NvbHVtbl0gIT0gMSkKICAgICAgICByZXR1cm47</text>
+        <text encoding="base64">bGV2ZWxdW2NvbHVtbl0gPSAzOwoKCn0KCnRlbXBsYXRlPHNpemVfdCBzaXplX3gsIHNpemVfdCBzaXplX3k+CmJvb2wgSXNDb250aW51b3VzKGk=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICBpZiAoYXJyYXlbbGV2ZWxdW2NvbHVtbl0gIT0gMSkKICAgICAgICByZXR1cm47</text>
+      </register>
+      <register name="4" type="4">
         <text>{1, 1, 0, 0, 0, 0},
             {1, 1, 0, 0, 0, 0},
             {1, 1, 0, 0, 0, 0},</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDF9LAogICAgICAgICAgICB7MCwgMCwgMCwgMSwgMX0=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ym9vbCBJc0NvbnRpbnVvdXMoaW50ICgmYXJyYXkpW3NpemVfeF1bc2l6ZV95XSkKewogICAgZm9yIChpbnQgayAgPSAwOyBrIDwgc2l6ZV94OyArK2spIHsKICAgICAgICBmb3IgKGludCBsID0gMDsgbCA8IHNpemVfeTsgbCsrICkgewogICAgICAgICAgICBpZihhcnJheVtrXVtsXSAhPSAwICYmIGFycmF5W2tdW2xdICE9IDMpCiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfTsKCiAgICByZXR1cm4gdHJ1ZTsKfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">XTsKICAgIGludCBhWzNdWzRdIA==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">dm9pZCBXcml0ZShpbnQgKCZhcnJheSlbc2l6ZV94XVtzaXplX3ldLCApCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dm9pZCBXcml0ZShpbnQgKCphcnJheSlbNF1bNF0pCnsKICAgIHN0ZDo6Y291dCA8PCAiRWxlbWVudHMgb2YgdGhlIG1hdHJpeDogIjw8IHN0ZDo6ZW5kbDsKICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNDsgKytpKSB7CiAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCA0OyBqKysgKSB7CiAgICAgICAgICAgIGNvdXQgPDwgYXJyYXlbaV1bal0gPDwgIiAiOwogICAgICAgIH0KICAgICAgICBjb3V0IDw8IGVuZGw7CiAgICB9Owp9</text>
-      </register>
       <register name="-" type="4">
-        <text>startNod</text>
+        <text>Elements of the matri</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRcPg==</text>
