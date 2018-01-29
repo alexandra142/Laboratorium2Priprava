@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/GDB" timestamp="1517177827608">
+      <file name="/GDB" timestamp="1517182960144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/C++Projects/BFS/main.cpp" timestamp="1516591773368">
@@ -28,6 +28,11 @@
         <mark key="[" line="36" column="24" />
         <mark key="]" line="36" column="7" />
         <mark key="." line="36" column="7" />
+      </file>
+      <file name="D:/C++Projects/DFS_Test/main.cpp" timestamp="1517183366515">
+        <mark key="[" line="66" column="59" />
+        <mark key="]" line="66" column="59" />
+        <mark key="." line="66" column="59" />
       </file>
       <file name="$USER_HOME$/CLionProjects/DFS_graf/main.cpp" timestamp="1514846633082">
         <mark key="[" line="24" column="17" />
@@ -66,39 +71,39 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">ICAvKmludCBhcnJheVs1XVs1XSA9IHsKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDB9LAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMH0sCiAgICAgICAgICAgIHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDF9LAogICAgICAgICAgICB7MCwgMCwgMCwgMSwgMX0KICAgIH07Ki8=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMH0sCiAgICAgICAgICAgIHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDB9LAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMX0sCiAgICAgICAgICAgIHswLCAwLCAwLCAxLCAxfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAvKmludCBhcnJheVs1XVs1XSA9IHsKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDB9LAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMH0sCiAgICAgICAgICAgIHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDF9LAogICAgICAgICAgICB7MCwgMCwgMCwgMSwgMX0KICAgIH07Ki8=</text>
+        <text>= array[i][9] =</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgojaW5jbHVkZTxxdWV1ZT4KCnVzaW5nIG5hbWVzcGFjZSBzdGQ7Cgp0ZW1wbGF0ZTxzaXplX3Qgc2l6ZV94LCBzaXplX3Qgc2l6ZV95Pgp2b2lkICg=</text>
+        <text encoding="base64">ICAvKmludCBhcnJheVs1XVs1XSA9IHsKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDB9LAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMH0sCiAgICAgICAgICAgIHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDF9LAogICAgICAgICAgICB7MCwgMCwgMCwgMSwgMX0KICAgIH07Ki8=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">bGV2ZWxdW2NvbHVtbl0gPSAzOwoKCn0KCnRlbXBsYXRlPHNpemVfdCBzaXplX3gsIHNpemVfdCBzaXplX3k+CmJvb2wgSXNDb250aW51b3VzKGk=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgojaW5jbHVkZTxxdWV1ZT4KCnVzaW5nIG5hbWVzcGFjZSBzdGQ7Cgp0ZW1wbGF0ZTxzaXplX3Qgc2l6ZV94LCBzaXplX3Qgc2l6ZV95Pgp2b2lkICg=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICBpZiAoYXJyYXlbbGV2ZWxdW2NvbHVtbl0gIT0gMSkKICAgICAgICByZXR1cm47</text>
+        <text encoding="base64">bGV2ZWxdW2NvbHVtbl0gPSAzOwoKCn0KCnRlbXBsYXRlPHNpemVfdCBzaXplX3gsIHNpemVfdCBzaXplX3k+CmJvb2wgSXNDb250aW51b3VzKGk=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ICBpZiAoYXJyYXlbbGV2ZWxdW2NvbHVtbl0gIT0gMSkKICAgICAgICByZXR1cm47</text>
+      </register>
+      <register name="6" type="4">
         <text>{1, 1, 0, 0, 0, 0},
             {1, 1, 0, 0, 0, 0},
             {1, 1, 0, 0, 0, 0},</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDF9LAogICAgICAgICAgICB7MCwgMCwgMCwgMSwgMX0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Ym9vbCBJc0NvbnRpbnVvdXMoaW50ICgmYXJyYXkpW3NpemVfeF1bc2l6ZV95XSkKewogICAgZm9yIChpbnQgayAgPSAwOyBrIDwgc2l6ZV94OyArK2spIHsKICAgICAgICBmb3IgKGludCBsID0gMDsgbCA8IHNpemVfeTsgbCsrICkgewogICAgICAgICAgICBpZihhcnJheVtrXVtsXSAhPSAwICYmIGFycmF5W2tdW2xdICE9IDMpCiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfTsKCiAgICByZXR1cm4gdHJ1ZTsKfQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">XTsKICAgIGludCBhWzNdWzRdIA==</text>
-      </register>
       <register name="-" type="4">
-        <text>Elements of the matri</text>
+        <text>= array[i][9] =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRcPg==</text>
