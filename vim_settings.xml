@@ -3,38 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/GDB" timestamp="1517185141331">
+      <file name="/GDB" timestamp="1517186443181">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/C++Projects/BFS/main.cpp" timestamp="1516591773368">
-        <mark key="'" line="32" column="26" />
-        <mark key="[" line="42" column="42" />
-        <mark key="]" line="42" column="42" />
-        <mark key="." line="42" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1498323658513">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/DFS_bl/main.cpp" timestamp="1514845491793">
-        <mark key="'" line="51" column="38" />
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-      </file>
-      <file name="/fragment.mm" timestamp="1517184404110">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="D:/C++Projects/DFS_graf/main.cpp" timestamp="1516498109464">
-        <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="7" />
-        <mark key="." line="36" column="7" />
-      </file>
-      <file name="D:/C++Projects/DFS_Test/main.cpp" timestamp="1517185186025">
-        <mark key="[" line="112" column="78" />
-        <mark key="]" line="112" column="78" />
-        <mark key="." line="112" column="78" />
       </file>
       <file name="$USER_HOME$/CLionProjects/DFS_graf/main.cpp" timestamp="1514846633082">
         <mark key="[" line="24" column="17" />
@@ -50,14 +23,46 @@
       <file name="D:/C++Projects/DFS_kostra/main.cpp" timestamp="1516497988176">
         <mark key="'" line="49" column="4" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/CMakeLists.txt" timestamp="1498323818285">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/C++Projects/BFS _test/main.cpp" timestamp="1517186459511">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
       </file>
       <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/main.cpp" timestamp="1514835377299">
         <mark key="'" line="9" column="19" />
         <mark key="[" line="7" column="46" />
         <mark key="]" line="7" column="46" />
         <mark key="." line="7" column="46" />
+      </file>
+      <file name="D:/C++Projects/BFS/main.cpp" timestamp="1516591773368">
+        <mark key="'" line="32" column="26" />
+        <mark key="[" line="42" column="42" />
+        <mark key="]" line="42" column="42" />
+        <mark key="." line="42" column="42" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/DFS_bl/main.cpp" timestamp="1514845491793">
+        <mark key="'" line="51" column="38" />
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+      </file>
+      <file name="/fragment.mm" timestamp="1517186188978">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="D:/C++Projects/DFS_graf/main.cpp" timestamp="1516498109464">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="7" />
+        <mark key="." line="36" column="7" />
+      </file>
+      <file name="D:/C++Projects/DFS_Test/main.cpp" timestamp="1517185319730">
+        <mark key="[" line="112" column="78" />
+        <mark key="]" line="112" column="78" />
+        <mark key="." line="112" column="78" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/LaboratoriumPriprava/CMakeLists.txt" timestamp="1498323818285">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -73,39 +78,39 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMH0sCiAgICAgICAgICAgIHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDB9LAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMX0sCiAgICAgICAgICAgIHswLCAwLCAwLCAxLCAxfQ==</text>
+        <text encoding="base64">Ci8vdmFsdWUgMCBtZWFucyBub3QgY29ubmVjdGVkCi8vdmFsdWUgMSBtZWFucyBub3QgdmlzaXRlZAovL3ZhbHVlIDIgbWVhbnMgdmlzaXRlZAovL3ZhbHVlIDMgbWVhbnMgY2xvc2VkCmludCBtYWluKCkgewovL1NldCBtYXRyaXgKICAgIC8qaW50IGFycmF5WzVdWzVdID0gewogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMH0sCiAgICAgICAgICAgIHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDB9LAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMX0sCiAgICAgICAgICAgIHswLCAwLCAwLCAxLCAxfQogICAgfTsqLwoKICAgIGludCBhcnJheVs3XVs3XSA9IHsKICAgICAgICAgICAgLy8wLDEsIDIsIDMsIDQsIDUsIDYKICAgICAgICAgICAgezEsIDEsIDAsIDAsIDAsIDAsIDB9LC8vMAogICAgICAgICAgICB7MSwgMSwgMSwgMCwgMSwgMCwgMH0sLy8xCiAgICAgICAgICAgIHswLCAxLCAxLCAxLCAwLCAwLCAwfSwvLzIKICAgICAgICAgICAgezAsIDAsIDEsIDEsIDAsIDAsIDB9LC8vMwogICAgICAgICAgICB7MCwgMSwgMCwgMCwgMSwgMSwgMH0sLy80CiAgICAgICAgICAgIHswLCAwLCAwLCAwLCAxLCAxLCAwfSwvLzUKICAgICAgICAgICAgezAsIDAsIDAsIDAsIDAsIDEsIDF9LC8vNgogICAgfTsKCiAgICBCRlMgKGFycmF5LCAwLCA2KTsKCiAgICBjaW4uZ2V0ICgpOwogICAgcmV0dXJuIDA7Cn0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>startNode</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAvKmludCBhcnJheVs1XVs1XSA9IHsKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDB9LAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMH0sCiAgICAgICAgICAgIHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDF9LAogICAgICAgICAgICB7MCwgMCwgMCwgMSwgMX0KICAgIH07Ki8=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMH0sCiAgICAgICAgICAgIHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDB9LAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMX0sCiAgICAgICAgICAgIHswLCAwLCAwLCAxLCAxfQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgojaW5jbHVkZTxxdWV1ZT4KCnVzaW5nIG5hbWVzcGFjZSBzdGQ7Cgp0ZW1wbGF0ZTxzaXplX3Qgc2l6ZV94LCBzaXplX3Qgc2l6ZV95Pgp2b2lkICg=</text>
+        <text encoding="base64">ICAvKmludCBhcnJheVs1XVs1XSA9IHsKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDB9LAogICAgICAgICAgICB7MSwgMSwgMSwgMSwgMH0sCiAgICAgICAgICAgIHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDF9LAogICAgICAgICAgICB7MCwgMCwgMCwgMSwgMX0KICAgIH07Ki8=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">bGV2ZWxdW2NvbHVtbl0gPSAzOwoKCn0KCnRlbXBsYXRlPHNpemVfdCBzaXplX3gsIHNpemVfdCBzaXplX3k+CmJvb2wgSXNDb250aW51b3VzKGk=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgojaW5jbHVkZTxxdWV1ZT4KCnVzaW5nIG5hbWVzcGFjZSBzdGQ7Cgp0ZW1wbGF0ZTxzaXplX3Qgc2l6ZV94LCBzaXplX3Qgc2l6ZV95Pgp2b2lkICg=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICBpZiAoYXJyYXlbbGV2ZWxdW2NvbHVtbl0gIT0gMSkKICAgICAgICByZXR1cm47</text>
+        <text encoding="base64">bGV2ZWxdW2NvbHVtbl0gPSAzOwoKCn0KCnRlbXBsYXRlPHNpemVfdCBzaXplX3gsIHNpemVfdCBzaXplX3k+CmJvb2wgSXNDb250aW51b3VzKGk=</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">ICBpZiAoYXJyYXlbbGV2ZWxdW2NvbHVtbl0gIT0gMSkKICAgICAgICByZXR1cm47</text>
+      </register>
+      <register name="7" type="4">
         <text>{1, 1, 0, 0, 0, 0},
             {1, 1, 0, 0, 0, 0},
             {1, 1, 0, 0, 0, 0},</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHsxLCAxLCAxLCAxLCAwfSwKICAgICAgICAgICAgezEsIDEsIDEsIDEsIDF9LAogICAgICAgICAgICB7MCwgMCwgMCwgMSwgMX0=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Ym9vbCBJc0NvbnRpbnVvdXMoaW50ICgmYXJyYXkpW3NpemVfeF1bc2l6ZV95XSkKewogICAgZm9yIChpbnQgayAgPSAwOyBrIDwgc2l6ZV94OyArK2spIHsKICAgICAgICBmb3IgKGludCBsID0gMDsgbCA8IHNpemVfeTsgbCsrICkgewogICAgICAgICAgICBpZihhcnJheVtrXVtsXSAhPSAwICYmIGFycmF5W2tdW2xdICE9IDMpCiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfTsKCiAgICByZXR1cm4gdHJ1ZTsKfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>startNode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRcPg==</text>
